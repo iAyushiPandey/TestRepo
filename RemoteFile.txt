@@ -1,2 +1,3 @@
 Change1 - Commit with message "Change 1 in RemoteFile"
 Change2 - Commit with message "Change 2 in RemoteFile" 
+Change3 - Commit with message "Change 3 in RemoteFile" 
